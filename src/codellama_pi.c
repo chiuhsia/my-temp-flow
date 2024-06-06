@@ -3,7 +3,7 @@
 #include <time.h>
 #include <math.h>
 
-#test1 - new
+#test1 - temp-flow
 int main() {
     // Initialize random seed
     srand(time(NULL));
